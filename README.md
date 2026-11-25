@@ -8,7 +8,7 @@ Initialement conçu sous le nom de Radio Osmund, pour accompagner l'univers litt
 
 Avec son architecture modulaire, Osmamp rend hommage à l'esprit de Winamp sans chercher à en être un clone, grâce à son esthétique rétro-industrielle, ses ornements de laiton, ses afficheurs cyan, et… ses effets sonores.
 
-[Télécharger Osmamp 1.0.2 pour Windows x64](./Osmamp-1.0.2-Setup-x64.exe?raw=true)
+**[Télécharger la dernière version d’Osmamp pour Windows x64](https://github.com/srdrouin/osmamp/releases/latest/download/Osmamp-Setup-x64.exe)** · [Historique des versions](https://github.com/srdrouin/osmamp/releases)
 
 ![Osmamp en situation sur Windows](./Osmamp-EnSituation.jpg)
 
@@ -41,6 +41,8 @@ Osmamp est une création de René Drouin, auteur, designer graphique et concepte
 ## Licence et distribution
 
 Osmamp est un logiciel propriétaire distribué gratuitement (freeware), sans publicité, abonnement ni limitation de durée. Son utilisation est autorisée dans un cadre personnel comme professionnel. Son code source n'est pas distribué publiquement.
+
+Ce dépôt est consacré à la présentation et à la distribution d’Osmamp. Les archives « Source code » générées automatiquement par GitHub contiennent uniquement les fichiers de présentation et de licence du dépôt. Pour installer Osmamp, télécharge `Osmamp-Setup-x64.exe` dans les fichiers joints à la Release.
 
 Osmamp s'appuie sur plusieurs technologies open source, dont Tauri et Rust, dont les licences respectives sont conservées et respectées.
 
